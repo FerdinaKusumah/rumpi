@@ -1,0 +1,5 @@
+[
+  {"watch_api": "http://localhost:8090/watch1", "notify_api": "http://localhost:8090/report1", "interval": 1, "verbose": true},
+  {"watch_api": "http://localhost:8090/watch2", "notify_api": "http://localhost:8090/report2", "interval": 2, "verbose": true},
+  {"watch_api": "http://localhost:8090/watch3", "notify_api": "http://localhost:8090/report3", "interval": 3, "verbose": true}
+]
