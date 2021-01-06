@@ -15,8 +15,8 @@ type Option struct {
 func ParseOption() *Option {
 	var opt = new(Option)
 
-	flag.StringVar(&opt.Source, "source", "./config.json", "Please Input JSON File Source")
-	flag.StringVar(&opt.Source, "s", "./config.json", "Please Input JSON File Source")
+	flag.StringVar(&opt.Source, "source", "", "Please Input JSON File Source")
+	flag.StringVar(&opt.Source, "s", "", "Please Input JSON File Source")
 	flag.Parse()
 
 	// if source is empty
