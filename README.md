@@ -29,10 +29,10 @@ This will periodic checking api at given specified range interval in second.
 You can watch multiple api changes and notify to another api when there's changes in data.
 
 ### Watch multiple api
-![Watch Api](https://github.com/FerdinaKusumah/rumpi/blob/master/example/watch-api.png?raw=true)
+![Watch Api](/example/watch-api.png)
 
 ### Notify other api when data source is changes
-![Notify Api](https://github.com/FerdinaKusumah/rumpi/blob/master/example/notify.png?raw=true)
+![Notify Api](/example/notify.png)
 
 `rümpï` will post message to notify url with payload 
 ```json
