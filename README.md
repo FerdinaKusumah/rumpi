@@ -1,8 +1,8 @@
 # rumpi
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![GitHub license](https://img.shields.io/github/license/FerdinaKusumah/rumpi.svg)](https://github.com/FerdinaKusumah/rumpi/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/FerdinaKusumah/rumpi.svg)](https://GitHub.com/FerdinaKusumah/rumpi/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/FerdinaKusumah/rumpi.svg)](https://GitHub.com/FerdinaKusumah/rumpi/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub license](https://img.shields.io/github/license/narutoxxx/rumpi.svg)](https://github.com/FerdinaKusumah/rumpi/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/narutoxxx/rumpi.svg)](https://GitHub.com/narutoxxx/rumpi/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/narutoxxx/rumpi.svg)](https://GitHub.com/narutoxxx/rumpi/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 
 <!-- TABLE OF CONTENTS -->
@@ -57,7 +57,7 @@ Need go `1.12+` or later.
 ### from GitHub and make executable
 
 ```bash
-▶ git clone https://github.com/FerdinaKusumah/rumpi
+▶ git clone https://github.com/narutoxxx/rumpi
 ▶ cd rumpi
 ▶ go build .
 ▶ (sudo) mv rumpi /usr/local/bin
@@ -107,7 +107,7 @@ Need go `1.12+` or later.
 #### Watch From File Config Url
 
 ```bash
-▶ rumpi --source "https://raw.githubusercontent.com/FerdinaKusumah/rumpi/master/example/config.json"
+▶ rumpi --source "https://raw.githubusercontent.com/narutoxxx/rumpi/master/example/config.json"
 ```
 
 ## TODOs
@@ -117,9 +117,9 @@ Need go `1.12+` or later.
 
 ## Help & Bugs
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](https://github.com/FerdinaKusumah/rumpi/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](https://github.com/narutoxxx/rumpi/issues)
 
-If you are still confused or found a bug, please [open the issue](https://github.com/FerdinaKusumah/rumpi/issues). All bug reports are appreciated, some features have not been tested yet due to lack of free time.
+If you are still confused or found a bug, please [open the issue](https://github.com/narutoxxx/rumpi/issues). All bug reports are appreciated, some features have not been tested yet due to lack of free time.
 
 
 ## Pronunciation
