@@ -1,4 +1,11 @@
 # rumpi
+
+> **⚠️ Archived: this project is no longer maintained.**
+>
+> For watching APIs on an interval and getting notified about changes or downtime, use a maintained tool instead:
+> * [Uptime Kuma](https://github.com/louislam/uptime-kuma) for health checks with notifications
+> * [changedetection.io](https://github.com/dgtlmoon/changedetection.io) to watch content changes and call webhooks
+> * [Gatus](https://github.com/TwiN/gatus) for health checks defined in a config file
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![GitHub license](https://img.shields.io/github/license/FerdinaKusumah/rumpi.svg)](https://github.com/FerdinaKusumah/rumpi/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/FerdinaKusumah/rumpi.svg)](https://GitHub.com/FerdinaKusumah/rumpi/issues/)
